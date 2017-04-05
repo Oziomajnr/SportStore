@@ -85,6 +85,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Controllers\ProductControllerTests.cs" />
+    <Compile Include="HtmlHelpers\PagingHelpersTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
